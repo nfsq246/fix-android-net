@@ -5,6 +5,9 @@
 # releas
  go version 1.21.4
  [here](https://github.com/nfsq246/fix-android-net/releases/tag/v0.0.1)
+ 
+ go version 1.22.4
+ [here](https://github.com/nfsq246/fix-android-net/releases/tag/v0.0.2)
 # build
  1. download
     ```
